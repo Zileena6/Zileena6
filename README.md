@@ -1,6 +1,5 @@
 # Hi there 👋
 
-
 <hr>
 
-I'm [Zileena](https://zileena6.github.io/SVG-animation/)
+My name is [Linda](https://zileena6.github.io/SVG-animation/)
